@@ -13,7 +13,7 @@
 1. **Clone the repository** or download the code to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/Task-Manager.git
+   git clone https://github.com/Peregrine-Falcon-00/Task-Manager.git
    Navigate to the project directory.
    ```
 
